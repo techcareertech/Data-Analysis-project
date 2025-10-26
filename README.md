@@ -38,18 +38,23 @@ Key Metrics Displayed:
 <p align="center"> <img src="https://github.com/techcareertech/Data-Analysis-project/blob/main/PowerBI_project_Dashboard.PNG" alt="Power BI Dashboard" width="800"> </p>
 
 ## 🔍 Analysis Workflow
-1.	Data Cleaning
-o	Removed duplicates and handled missing values
-o	Formatted date columns for time series operations
-2.	Exploratory Data Analysis (EDA)
-o	Examined sales and profit trends by month, category, and region
-o	Identified high-performing segments and shipping methods
-3.	Time Series Analysis
-o	Analyzed monthly sales and profit trends to detect seasonal fluctuations
-o	Visualized year-over-year performance
-4.	Dashboard Development
-o	Created interactive Power BI dashboard for executives and analysts
-o	Integrated filters for region, segment, and ship mode
+
+1. **Data Cleaning**  
+   - Removed duplicates and handled missing values  
+   - Formatted date columns for time series operations  
+
+2. **Exploratory Data Analysis (EDA)**  
+   - Examined sales and profit trends by month, category, and region  
+   - Identified high-performing segments and shipping methods  
+
+3. **Time Series Analysis**  
+   - Analyzed monthly sales and profit trends to detect seasonal fluctuations  
+   - Visualized year-over-year performance  
+
+4. **Dashboard Development**  
+   - Created an interactive Power BI dashboard for executives and analysts  
+   - Integrated filters for region, segment, and ship mode  
+
 
 ## 💡 Key Insights Summary
 | Insight                     | Observation                                                                                                                     |

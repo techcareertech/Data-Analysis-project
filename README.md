@@ -29,13 +29,18 @@ To contribute to the success of a business by utilizing data analysis techniques
 - **Data Cleaning & Preprocessing** – handling missing values, deleting extra columns , encoding categorical variables, scaling numerical variables.
 - **DAX Queries** – Applied DAX queries to create calculated columns, perform complex data transformations, and generate actionable business insights
 
-## 📈 Dashboard Preview
-Key Metrics Displayed:
-•	Orders: 22K
-•	Total Sales: 2M
-•	Total Profit: 175K
-•	Average Ship Days: 10
-<p align="center"> <img src="https://github.com/techcareertech/Data-Analysis-project/blob/main/PowerBI_project_Dashboard.PNG" alt="Power BI Dashboard" width="800"> </p>
+## 📈 Dashboard Preview  
+
+**Key Metrics Displayed:**  
+- **Total Orders:** 22K  
+- **Total Sales:** $2M  
+- **Total Profit:** $175K  
+- **Average Shipping Time:** 10 days  
+
+<p align="center">
+  <img src="https://github.com/techcareertech/Data-Analysis-project/blob/main/PowerBI_project_Dashboard.PNG" alt="Power BI Dashboard" width="800">
+</p>
+
 
 ## 🔍 Analysis Workflow
 

@@ -50,3 +50,4 @@ o	Visualized year-over-year performance
 4.	Dashboard Development
 o	Created interactive Power BI dashboard for executives and analysts
 o	Integrated filters for region, segment, and ship mode
+

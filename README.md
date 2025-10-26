@@ -23,3 +23,8 @@ To contribute to the success of a business by utilizing data analysis techniques
 - `Payment Mode` – Mode of customer payment  
 
 **Data Source:** Public SuperStore dataset (used widely for BI and analytics demonstrations).  
+
+## 🧰 Tools & Technologies Used
+- **Microsoft Power BI** – Data visualization and dashboard creation  
+- **Data Cleaning & Preprocessing** – handling missing values, deleting extra columns , encoding categorical variables, scaling numerical variables.
+- **DAX Queries** – Applied DAX queries to create calculated columns, perform complex data transformations, and generate actionable business insights

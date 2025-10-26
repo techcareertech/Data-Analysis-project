@@ -74,5 +74,11 @@ Key Metrics Displayed:
 - Encourage **Corporate and Home Office** customer retention programs.  
 - Continue leveraging **Power BI** for real-time monitoring and decision support.
 
+## 🧾 Author
+
+**Name:** Muhammad Umar  
+**📧 Email:** [umar.techcareer@gmail.com](mailto:umar.techcareer@gmail.com)  
+**🌐 LinkedIn:** [www.linkedin.com/in/mdumartech](https://www.linkedin.com/in/mdumartech)
+
 
 

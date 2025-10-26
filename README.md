@@ -1,11 +1,11 @@
 # 🛒 Super Store Sales Analysis Project
 
-## 📊 Project Overview
+##  Project Overview
 This project demonstrates a complete **data analysis workflow** using the Super Store Sales dataset. The analysis focuses on uncovering trends and insights that can drive better business decisions, with a special emphasis on **time series analysis** to identify seasonal patterns in sales and profit.
 
 The final deliverable includes an **interactive Power BI dashboard** that visually presents key metrics such as sales performance, profit trends, and regional comparisons.
 
-## 🎯 Objective
+##  Objective
 To contribute to the success of a business by utilizing data analysis techniques — particularly **time series analysis** — to extract valuable insights that support strategic decision-making.
 
 ## 📁 Dataset Overview
@@ -24,12 +24,12 @@ To contribute to the success of a business by utilizing data analysis techniques
 
 **Data Source:** Public SuperStore dataset (used widely for BI and analytics demonstrations).  
 
-## 🧰 Tools & Technologies Used
+##  Tools & Technologies Used
 - **Microsoft Power BI** – Data visualization and dashboard creation  
 - **Data Cleaning & Preprocessing** – handling missing values, deleting extra columns , encoding categorical variables, scaling numerical variables.
 - **DAX Queries** – Applied DAX queries to create calculated columns, perform complex data transformations, and generate actionable business insights
 
-## 📈 Dashboard Preview  
+##  Dashboard Preview  
 
 **Key Metrics Displayed:**  
 - **Total Orders:** 22K  
@@ -42,7 +42,7 @@ To contribute to the success of a business by utilizing data analysis techniques
 </p>
 
 
-## 🔍 Analysis Workflow
+##  Analysis Workflow
 
 1. **Data Cleaning**  
    - Removed duplicates and handled missing values  
@@ -61,7 +61,7 @@ To contribute to the success of a business by utilizing data analysis techniques
    - Integrated filters for region, segment, and ship mode  
 
 
-## 💡 Key Insights Summary
+##  Key Insights Summary
 | Insight                     | Observation                                                                                                                     |
 | :-------------------------- | :------------------------------------------------------------------------------------------------------------------------------ |
 | **1. Sales Performance**    | Sales peaked around **November–December**, indicating strong seasonal demand during holidays.                                   |
@@ -71,7 +71,7 @@ To contribute to the success of a business by utilizing data analysis techniques
 | **5. Payment Preferences**  | Online and card payments made up the majority of transactions (≈65%), suggesting a digital shift.                               |
 | **6. Product Categories**   | **Office Supplies** led sales, while **Technology** had the highest average profit per unit.                                    |
 
-## 🧭 Conclusions & Recommendations
+##  Conclusions & Recommendations
 
 - Focus marketing and inventory on **holiday months (Nov–Dec)** to maximize profits.  
 - Optimize **shipping and logistics** for faster modes with better margins.  
@@ -79,7 +79,7 @@ To contribute to the success of a business by utilizing data analysis techniques
 - Encourage **Corporate and Home Office** customer retention programs.  
 - Continue leveraging **Power BI** for real-time monitoring and decision support.
 
-## 🧾 Author
+##  Author
 
 **Name:** Muhammad Umar  
 **📧 Email:** [umar.techcareer@gmail.com](mailto:umar.techcareer@gmail.com)  

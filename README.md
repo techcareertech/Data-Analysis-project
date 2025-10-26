@@ -29,7 +29,7 @@ To contribute to the success of a business by utilizing data analysis techniques
 - **Data Cleaning & Preprocessing** – handling missing values, deleting extra columns , encoding categorical variables, scaling numerical variables.
 - **DAX Queries** – Applied DAX queries to create calculated columns, perform complex data transformations, and generate actionable business insights
 
-📈 Dashboard Preview
+## 📈 Dashboard Preview
 Key Metrics Displayed:
 •	Orders: 22K
 •	Total Sales: 2M
@@ -37,7 +37,7 @@ Key Metrics Displayed:
 •	Average Ship Days: 10
 <p align="center"> <img src="https://github.com/techcareertech/Data-Analysis-project/blob/main/PowerBI_project_Dashboard.PNG" alt="Power BI Dashboard" width="800"> </p>
 
-🔍 Analysis Workflow
+## 🔍 Analysis Workflow
 1.	Data Cleaning
 o	Removed duplicates and handled missing values
 o	Formatted date columns for time series operations
@@ -51,7 +51,7 @@ o	Visualized year-over-year performance
 o	Created interactive Power BI dashboard for executives and analysts
 o	Integrated filters for region, segment, and ship mode
 
-💡 Key Insights Summary
+## 💡 Key Insights Summary
 | Insight                     | Observation                                                                                                                     |
 | :-------------------------- | :------------------------------------------------------------------------------------------------------------------------------ |
 | **1. Sales Performance**    | Sales peaked around **November–December**, indicating strong seasonal demand during holidays.                                   |
@@ -60,3 +60,14 @@ o	Integrated filters for region, segment, and ship mode
 | **4. Segment Contribution** | The **Consumer** segment contributed nearly half of total sales volume.                                                         |
 | **5. Payment Preferences**  | Online and card payments made up the majority of transactions (≈65%), suggesting a digital shift.                               |
 | **6. Product Categories**   | **Office Supplies** led sales, while **Technology** had the highest average profit per unit.                                    |
+
+## 🧭 Conclusions & Recommendations
+
+- Focus marketing and inventory on **holiday months (Nov–Dec)** to maximize profits.  
+- Optimize **shipping and logistics** for faster modes with better margins.  
+- Increase **promotions in low-performing regions** to balance sales distribution.  
+- Encourage **Corporate and Home Office** customer retention programs.  
+- Continue leveraging **Power BI** for real-time monitoring and decision support.
+
+
+

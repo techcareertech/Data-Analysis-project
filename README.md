@@ -51,3 +51,12 @@ o	Visualized year-over-year performance
 o	Created interactive Power BI dashboard for executives and analysts
 o	Integrated filters for region, segment, and ship mode
 
+💡 Key Insights Summary
+| Insight                     | Observation                                                                                                                     |
+| :-------------------------- | :------------------------------------------------------------------------------------------------------------------------------ |
+| **1. Sales Performance**    | Sales peaked around **November–December**, indicating strong seasonal demand during holidays.                                   |
+| **2. Profitability**        | Despite high sales, profit margins were uneven — **Standard Class** shipping offered higher profit efficiency than First Class. |
+| **3. Regional Trends**      | The **West** region generated the highest share of total sales, while the **South** region lagged behind.                       |
+| **4. Segment Contribution** | The **Consumer** segment contributed nearly half of total sales volume.                                                         |
+| **5. Payment Preferences**  | Online and card payments made up the majority of transactions (≈65%), suggesting a digital shift.                               |
+| **6. Product Categories**   | **Office Supplies** led sales, while **Technology** had the highest average profit per unit.                                    |
